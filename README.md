@@ -1,3 +1,10 @@
+## Setting up database
+
+```bash
+# run initial migration of db
+$ npx prisma migrate dev
+```
+
 ## Running the app
 
 ```bash
